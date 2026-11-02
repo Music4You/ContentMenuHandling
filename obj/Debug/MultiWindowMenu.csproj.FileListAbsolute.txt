@@ -1,0 +1,13 @@
+E:\workstationvs\MultiWindowMenu\bin\Debug\MultiWindowMenu.exe.config
+E:\workstationvs\MultiWindowMenu\bin\Debug\MultiWindowMenu.exe
+E:\workstationvs\MultiWindowMenu\bin\Debug\MultiWindowMenu.pdb
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.csproj.AssemblyReference.cache
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.Form1.resources
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.Properties.Resources.resources
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.csproj.GenerateResource.cache
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.csproj.CoreCompileInputs.cache
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.exe
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.pdb
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.PageDefault.resources
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.PageOne.resources
+E:\workstationvs\MultiWindowMenu\obj\Debug\MultiWindowMenu.PageTwo.resources
